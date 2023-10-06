@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!--1) There have a src folder, where have multiple file/folder such as (component,config,services,App.js,index.css,index.js)-->
+<!--2) In App.js file, designed the ui & implemented functionality -->
+
+<!--3) In component folder, there have 4 files - Loader.js,Search.js,UnitChange.js,Weather.js.(Loader.js) file used in (Weather.js) file & (Search.js, UnitChange.js & Weather.js) this all 3 files used in App.js file. -->
+
+<!-- 4) In config folder, there have a (constant.js) file which consist the constant values & objects.  -->
+
+<!--5) In Services folder, there have a (api.js) file in services folder where setup the axios for api request. -->
+
+<!-- 6) index.js file, run the project in a html root  -->
+
+<!-- 7) index.css file is used for tailwind css style -->
